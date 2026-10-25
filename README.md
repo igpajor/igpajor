@@ -3,7 +3,7 @@
 
 # Olá, eu sou Igor!
 
-### Estudante de programação | 42SP
+### Estudante de programação
 
 Construindo minha base, um projeto de cada vez.
 
