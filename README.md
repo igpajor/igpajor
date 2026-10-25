@@ -1,31 +1,59 @@
-# Olá! Sou o Igor
+
+<div align="center">
+
+# Olá, eu sou Igor!
+
+### Estudante de programação | 42SP
+
+Construindo minha base, um projeto de cada vez.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igpajor)
+![Status](https://img.shields.io/badge/Status-Aprendendo-2ea44f?style=for-the-badge)
+
+</div>
+
+---
+
+## Sobre mim
 
 Estou começando minha jornada na programação e construindo minha base em desenvolvimento de software.
 
-Concluí o Discovery da 42 e estou me preparando para a Piscine 42SP. Uso este perfil para registrar meu aprendizado, experimentar ideias e desenvolver meus primeiros projetos.
+Concluí o Discovery da 42 e estou me preparando para a Piscine 42SP.
 
-## O que estou estudando
+Uso este espaço para registrar meus estudos, experimentar ideias e compartilhar os projetos que desenvolvo.
 
-- **Shell:** comandos e utilização do terminal
-- **C:** fundamentos da programação
-- **HTML:** estrutura de páginas web
-- **CSS:** estilos e layouts
-- **JavaScript:** lógica e interatividade
-- **Git e GitHub:** versionamento e organização de projetos
+## Tecnologias em estudo
 
-## Meus objetivos
+<div align="center">
+
+<img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+</div>
+
+## Objetivos
 
 - Desenvolver minha lógica de programação.
-- Aprender a pesquisar e resolver problemas com autonomia.
+- Aprender a resolver problemas com autonomia.
 - Construir projetos próprios.
-- Documentar meu aprendizado e compartilhar conhecimento.
-- Aprender a colaborar com outras pessoas.
+- Aprender a colaborar e compartilhar conhecimento.
 
 ## Projetos
 
-Estou começando a construir meus primeiros projetos e vou adicionar aqui aqueles que documentam melhor minha evolução.
+Ainda estou construindo meus primeiros projetos.
 
-## Minha jornada
+Em breve, esta seção terá links para meus repositórios e para os trabalhos que melhor representam minha evolução.
 
-Este perfil é um registro do processo, não apenas dos resultados. Quero aprender fazendo, entender meus erros e evoluir um projeto de cada vez.
+---
 
+<div align="center">
+
+**Aprender fazendo. Evoluir a cada projeto.**
+
+[Visite meu GitHub](https://github.com/igpajor)
+
+</div>
